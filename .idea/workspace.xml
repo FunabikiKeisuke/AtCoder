@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff5a648b-0d53-4a0a-affc-6136b72a854c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNe7zpoSvNIaaGUrm24l02I2aj" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dl_from_scratch" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.D - String Equivalence">
+    <configuration name="A - Kth Term" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/A - Kth Term.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B - Bishop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/B - Bishop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C - Sqrt Inequality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/C - Sqrt Inequality.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D - String Equivalence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/D - String Equivalence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.D - String Equivalence" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.C - Sqrt Inequality" />
+        <item itemvalue="Python.B - Bishop" />
+        <item itemvalue="Python.A - Kth Term" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff5a648b-0d53-4a0a-affc-6136b72a854c" name="Default Changelist" comment="" />
+      <created>1582787315150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582787315150</updated>
+      <workItem from="1582787316579" duration="51784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AtCoder$ABC087B___Coins.coverage" NAME="ABC087B - Coins Coverage Results" MODIFIED="1582890396122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC088B___Card_Game_for_Two.coverage" NAME="ABC088B - Card Game for Two Coverage Results" MODIFIED="1582902199211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$D___Manga_Market.coverage" NAME="D - Manga Market Coverage Results" MODIFIED="1583675663813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/日立製作所 社会システム事業部 プログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$D___String_Equivalence.coverage" NAME="D - String Equivalence Coverage Results" MODIFIED="1584195657337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC083B___Some_Sums.coverage" NAME="ABC083B - Some Sums Coverage Results" MODIFIED="1582809212215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC086C___Traveling.coverage" NAME="ABC086C - Traveling Coverage Results" MODIFIED="1582813398051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Digits.coverage" NAME="B - Digits Coverage Results" MODIFIED="1583417218639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 156" />
+    <SUITE FILE_PATH="coverage/AtCoder$C___Tax_Increase.coverage" NAME="C - Tax Increase Coverage Results" MODIFIED="1583586060323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Interactive_Sorting.coverage" NAME="B - Interactive Sorting Coverage Results" MODIFIED="1582964707001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice contest" />
+    <SUITE FILE_PATH="coverage/AtCoder$a.coverage" NAME="a Coverage Results" MODIFIED="1584194227018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Count_Balls.coverage" NAME="B - Count Balls Coverage Results" MODIFIED="1583584760049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC081B___Shift_only.coverage" NAME="ABC081B - Shift only Coverage Results" MODIFIED="1582888716413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Beginner.coverage" NAME="A - Beginner Coverage Results" MODIFIED="1583416890518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 156" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Station_and_Bus.coverage" NAME="A - Station and Bus Coverage Results" MODIFIED="1583582657809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Bingo.coverage" NAME="B - Bingo Coverage Results" MODIFIED="1583069591128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 157" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Bishop.coverage" NAME="B - Bishop Coverage Results" MODIFIED="1584188093090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC081A___Placing_Marbles.coverage" NAME="ABC081A - Placing Marbles Coverage Results" MODIFIED="1582884966551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC085C___Otoshidama.coverage" NAME="ABC085C - Otoshidama Coverage Results" MODIFIED="1582903606370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC085B___Kagami_Mochi.coverage" NAME="ABC085B - Kagami Mochi Coverage Results" MODIFIED="1582812025177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$C___ThREE.coverage" NAME="C - ThREE Coverage Results" MODIFIED="1583675923518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/日立製作所 社会システム事業部 プログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Duplex_Printing.coverage" NAME="A - Duplex Printing Coverage Results" MODIFIED="1583064151698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 157" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Kth_Term.coverage" NAME="A - Kth Term Coverage Results" MODIFIED="1584187398146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$C___Sqrt_Inequality.coverage" NAME="C - Sqrt Inequality Coverage Results" MODIFIED="1584190756389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC086A___Product.coverage" NAME="ABC086A - Product Coverage Results" MODIFIED="1582884169874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC049C___Daydream.coverage" NAME="ABC049C - Daydream Coverage Results" MODIFIED="1582812930433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$D___String_Formation.coverage" NAME="D - String Formation Coverage Results" MODIFIED="1583588036043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" />
+    <SUITE FILE_PATH="coverage/AtCoder$PracticeA___Welcome_to_AtCoder.coverage" NAME="PracticeA - Welcome to AtCoder Coverage Results" MODIFIED="1582883030072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$C___Rally.coverage" NAME="C - Rally Coverage Results" MODIFIED="1583418837334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 156" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___Nice_Shopping.coverage" NAME="B - Nice Shopping Coverage Results" MODIFIED="1583669682942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/日立製作所 社会システム事業部 プログラミングコンテスト2020" />
+  </component>
+</project>
