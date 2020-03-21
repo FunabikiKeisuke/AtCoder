@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff5a648b-0d53-4a0a-affc-6136b72a854c" name="Default Changelist" comment="" />
+    <list default="true" id="ff5a648b-0d53-4a0a-affc-6136b72a854c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AtCoder Grand Contest 043/A - Range Flip Find Route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder Grand Contest 043/B - 123 Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D - String Equivalence">
-    <configuration name="A - Kth Term" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.B - 123 Triangle">
+    <configuration name="A - Range Flip Find Route" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,12 +57,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder Grand Contest 043" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/A - Kth Term.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder Grand Contest 043/A - Range Flip Find Route.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B - Bishop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="B - 123 Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder Grand Contest 043" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020/B - Bishop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder Grand Contest 043/B - 123 Triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.B - 123 Triangle" />
+        <item itemvalue="Python.A - Range Flip Find Route" />
         <item itemvalue="Python.D - String Equivalence" />
         <item itemvalue="Python.a" />
         <item itemvalue="Python.C - Sqrt Inequality" />
-        <item itemvalue="Python.B - Bishop" />
-        <item itemvalue="Python.A - Kth Term" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582787315150</updated>
-      <workItem from="1582787316579" duration="52067000" />
+      <workItem from="1582787316579" duration="54835000" />
     </task>
     <servers />
   </component>
@@ -218,9 +222,11 @@
     <SUITE FILE_PATH="coverage/AtCoder$ABC085B___Kagami_Mochi.coverage" NAME="ABC085B - Kagami Mochi Coverage Results" MODIFIED="1582812025177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
     <SUITE FILE_PATH="coverage/AtCoder$C___ThREE.coverage" NAME="C - ThREE Coverage Results" MODIFIED="1583675923518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/日立製作所 社会システム事業部 プログラミングコンテスト2020" />
     <SUITE FILE_PATH="coverage/AtCoder$A___Duplex_Printing.coverage" NAME="A - Duplex Printing Coverage Results" MODIFIED="1583064151698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 157" />
+    <SUITE FILE_PATH="coverage/AtCoder$B___123_Triangle.coverage" NAME="B - 123 Triangle Coverage Results" MODIFIED="1584795560469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Grand Contest 043" />
     <SUITE FILE_PATH="coverage/AtCoder$A___Kth_Term.coverage" NAME="A - Kth Term Coverage Results" MODIFIED="1584187398146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
     <SUITE FILE_PATH="coverage/AtCoder$C___Sqrt_Inequality.coverage" NAME="C - Sqrt Inequality Coverage Results" MODIFIED="1584190756389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/パナソニックプログラミングコンテスト2020" />
     <SUITE FILE_PATH="coverage/AtCoder$ABC086A___Product.coverage" NAME="ABC086A - Product Coverage Results" MODIFIED="1582884169874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Range_Flip_Find_Route.coverage" NAME="A - Range Flip Find Route Coverage Results" MODIFIED="1584794196826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Grand Contest 043" />
     <SUITE FILE_PATH="coverage/AtCoder$ABC049C___Daydream.coverage" NAME="ABC049C - Daydream Coverage Results" MODIFIED="1582812930433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
     <SUITE FILE_PATH="coverage/AtCoder$D___String_Formation.coverage" NAME="D - String Formation Coverage Results" MODIFIED="1583588036043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" />
     <SUITE FILE_PATH="coverage/AtCoder$PracticeA___Welcome_to_AtCoder.coverage" NAME="PracticeA - Welcome to AtCoder Coverage Results" MODIFIED="1582883030072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder-Beginners-Selection" />
